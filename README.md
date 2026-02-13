@@ -17,5 +17,3 @@ Aspiring Full Stack Developer | MERN Stack | Problem Solver | Passionate about b
 🧠 Tech + AI Angle (Good for 2026 market)
 
 MERN Stack Developer | Exploring AI Integration in Web Apps | Lifelong Learner | Open to Collaboration
-
-💪 Confident & Bold
